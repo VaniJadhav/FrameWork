@@ -1,0 +1,5 @@
+2021-12-18 21:16:56 INFO  TestBase - URL get open
+2021-12-18 21:16:56 INFO  TestBase - Entered user name
+2021-12-18 21:16:56 INFO  TestBase - Entered password
+2021-12-18 21:16:57 ERROR TestBase - Login Button clicked 
+2021-12-18 21:16:57 INFO  TestBase - Title is matching
